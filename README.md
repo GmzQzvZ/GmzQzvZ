@@ -126,19 +126,6 @@ Sistema que permite:
 
 ---
 
-## 🌱 Proyecto IoT – Iluminación para Invernadero
-
-Proyecto experimental que utiliza:
-
-- Panel solar
-- Rectificación de voltaje
-- Arduino
-- Sistema de iluminación para plantas
-
-Objetivo: mejorar el crecimiento de cultivos mediante control inteligente de luz.
-
----
-
 # 🎮 Otros intereses
 
 Además del desarrollo web también me interesa:
@@ -167,16 +154,14 @@ Me gusta desarrollar soluciones completas que van desde la idea hasta la impleme
 
 ---
 
-# 📫 Contacto
-
-GitHub:  
-
-FILOSOFÍA DE DESARROLLO
-
-“La mejor forma de aprender a programar es construyendo cosas reales.”
-
-CONTACTO
-
 GitHub: https://github.com/GmzQzvZ
 Email: zvzgmzq@gmail.com
 Portafolio: https://portafolio-82749372-c1d68.web.app/
+
+---
+
+
+
+
+
+
