@@ -1,74 +1,175 @@
-Sebastián Gómez
+# 👨‍💻 Sebastián Gómez
 
-Junior Software Developer Ingeniería de Software – Corporación
-Universitaria Iberoamericana Colombia
+🚀 **Junior Software Developer**  
+🎓 Estudiante de Ingeniería de Software – Corporación Universitaria Iberoamericana  
+📍 Colombia  
 
-SOBRE MÍ Soy desarrollador enfocado en backend con Node.js y en la
-construcción de aplicaciones web completas. Disfruto crear proyectos
-reales que solucionen problemas prácticos y automatizar procesos
-mediante integraciones con APIs.
+Apasionado por el desarrollo de software, la automatización de procesos y la creación de aplicaciones web completas. Me especializo en **Node.js y desarrollo backend**, construyendo sistemas funcionales desde cero que resuelvan problemas reales.
 
-TECNOLOGÍAS
+---
 
-Backend - Node.js - Express - PHP
+# 🧠 Sobre mí
 
-Frontend - HTML5 - CSS3 - JavaScript
+Soy un desarrollador que disfruta aprender creando proyectos reales.  
+He trabajado en sistemas completos que incluyen **paneles administrativos, automatización con APIs, inventarios, facturación y CRM**.
 
-Lenguajes - C - C++ - C# - PHP - JavaScript
+Me caracterizo por:
 
-Bases de datos - MySQL - JSON
+- 🔹 Adaptarme rápido a nuevas tecnologías  
+- 🔹 Crear soluciones prácticas  
+- 🔹 Diseñar sistemas completos desde cero  
+- 🔹 Documentar y estructurar proyectos correctamente  
 
-Herramientas - Git - GitHub - NPM - APIs REST - Google Calendar API -
-WhatsApp Web API
+---
 
-PROYECTOS DESTACADOS
+# 🚀 Tecnologías
 
-CRM con Inventario y Facturación Sistema CRM desarrollado con Node.js y
-MySQL que incluye: - Login y registro de usuarios - Inventario de
-productos - Facturación - Cálculo automático de totales - Registro de
-gastos - Panel administrativo - Gestión de clientes
+## Backend
+- Node.js
+- Express
+- PHP
 
-Arquitectura: Frontend (HTML / CSS / JS) ↓ Node.js + Express ↓ MySQL
+## Frontend
+- HTML5
+- CSS3
+- JavaScript
 
-Automatización con WhatsApp Sistema para automatizar la atención al
-cliente usando WhatsApp Web API.
+## Lenguajes
+- C
+- C++
+- C#
+- PHP
+- JavaScript
 
-Funciones: - Respuestas automáticas - Sistema de palabras clave -
-Mensajes gestionados desde base de datos - Integración con Google
-Calendar - Agendamiento automático de citas - Confirmación de citas por
-WhatsApp
+## Bases de datos
+- MySQL
+- JSON (almacenamiento estructurado)
 
-Casos de uso: - Peluquerías - Consultorios - Negocios con agenda de
-citas
+## Herramientas
+- Git
+- GitHub
+- NPM
+- APIs REST
+- Google Calendar API
+- WhatsApp Web API
 
-Sistema Service Desk Aplicación web para gestión de tickets que
-incluye: - Registro de usuarios - Login - Creación de casos -
-Visualización en tabla - Almacenamiento en JSON
+---
 
-Módulo de Facturación Sistema que permite: - Seleccionar productos desde
-inventario - Agregar múltiples productos - Eliminar productos
-dinámicamente - Calcular totales automáticamente - Guardar facturas en
-base de datos
+# 🧩 Proyectos Destacados
 
-Proyecto IoT – Iluminación para Invernadero Proyecto experimental que
-utiliza: - Panel solar - Rectificación de voltaje - Arduino - Sistema de
-iluminación para plantas
+## 📊 CRM con Inventario y Facturación
+Sistema CRM desarrollado con **Node.js + MySQL** que permite gestionar operaciones de negocio.
 
-Objetivo: Optimizar el crecimiento de cultivos mediante control de luz.
+Características:
 
-OTROS INTERESES
+- Sistema de login y registro
+- Inventario de productos
+- Facturación
+- Cálculo automático de totales
+- Registro de gastos
+- Panel administrativo
+- Gestión de clientes
 
--   Desarrollo de servidores GTA RP / FiveM
--   Automatización de comunidades
--   Creación de sistemas y misiones de roleplay
--   Streaming y contenido digital
+Arquitectura del sistema:
 
-ACTUALMENTE APRENDIENDO
+Frontend (HTML / CSS / JS)
+↓
+Node.js + Express
+↓
+MySQL
+---
 
--   Arquitectura escalable con Node.js
--   Integración avanzada de APIs
--   Automatización de negocios
--   Optimización de bases de datos
+## 🤖 Automatización con WhatsApp
+
+Sistema de automatización de atención al cliente usando **WhatsApp Web API**.
+
+Funciones principales:
+
+- Respuestas automáticas
+- Sistema de palabras clave
+- Gestión de mensajes desde base de datos
+- Integración con Google Calendar
+- Agendamiento automático de citas
+- Confirmación de citas por WhatsApp
+
+Pensado para negocios como:
+
+- Peluquerías
+- Consultorios
+- Negocios de citas
+
+---
+
+## 🗂 Sistema de Service Desk
+
+Aplicación web para gestión de tickets y casos.
+
+Incluye:
+
+- Registro de usuarios
+- Login
+- Creación de casos
+- Visualización en tabla
+- Persistencia de datos en JSON
+
+---
+
+## 🧾 Módulo de Facturación
+
+Sistema que permite:
+
+- Seleccionar productos desde inventario
+- Agregar múltiples productos
+- Eliminar productos dinámicamente
+- Calcular totales automáticamente
+- Guardar facturas en base de datos
+
+---
+
+## 🌱 Proyecto IoT – Iluminación para Invernadero
+
+Proyecto experimental que utiliza:
+
+- Panel solar
+- Rectificación de voltaje
+- Arduino
+- Sistema de iluminación para plantas
+
+Objetivo: mejorar el crecimiento de cultivos mediante control inteligente de luz.
+
+---
+
+# 🎮 Otros intereses
+
+Además del desarrollo web también me interesa:
+
+- Desarrollo de servidores **GTA RP / FiveM**
+- Automatización de comunidades
+- Creación de sistemas y misiones para roleplay
+- Streaming y contenido digital
+
+---
+
+# 📚 Actualmente aprendiendo
+
+- Arquitectura escalable con Node.js
+- Integración avanzada de APIs
+- Automatización de negocios
+- Optimización de bases de datos
+
+---
+
+# 💡 Filosofía de desarrollo
+
+> “La mejor forma de aprender a programar es construyendo cosas reales.”
+
+Me gusta desarrollar soluciones completas que van desde la idea hasta la implementación final.
+
+---
+
+# 📫 Contacto
+
+GitHub:  
 
 FILOSOFÍA DE DESARROLLO
 
