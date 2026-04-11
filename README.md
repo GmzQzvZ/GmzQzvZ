@@ -156,7 +156,7 @@ Me gusta desarrollar soluciones completas que van desde la idea hasta la impleme
 
 GitHub: https://github.com/GmzQzvZ
 Email: zvzgmzq@gmail.com
-Portafolio: https://portafolio-54344388-2e23a.web.app/
+Portafolio: https://sebas-gomez.com/
 
 ---
 
