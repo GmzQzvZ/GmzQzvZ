@@ -78,28 +78,6 @@ Node.js + Express
 ↓
 MySQL
 ---
-
-## 🤖 Automatización con WhatsApp
-
-Sistema de automatización de atención al cliente usando **WhatsApp Web API**.
-
-Funciones principales:
-
-- Respuestas automáticas
-- Sistema de palabras clave
-- Gestión de mensajes desde base de datos
-- Integración con Google Calendar
-- Agendamiento automático de citas
-- Confirmación de citas por WhatsApp
-
-Pensado para negocios como:
-
-- Peluquerías
-- Consultorios
-- Negocios de citas
-
----
-
 ## 🗂 Sistema de Service Desk
 
 Aplicación web para gestión de tickets y casos.
