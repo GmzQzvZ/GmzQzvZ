@@ -4,7 +4,7 @@
 🎓 Estudiante de Ingeniería de Software – Corporación Universitaria Iberoamericana  
 📍 Colombia  
 
-Apasionado por el desarrollo de software, la automatización de procesos y la creación de aplicaciones web completas. Me especializo en **Node.js y desarrollo backend**, construyendo sistemas funcionales desde cero que resuelvan problemas reales.
+Apasionado por el desarrollo de software, la creación de aplicaciones web completas. Me especializo en **Node.js y desarrollo backend**, construyendo sistemas funcionales desde cero que resuelvan problemas reales.
 
 ---
 
